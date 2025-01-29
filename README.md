@@ -8,7 +8,6 @@ We needed to understand various string methods and how they are utilized in orde
 Area for improvement: 
 
 At first, I struggled to understand the different string methods and needed to understand how they could be used in this program. 
-I even was able to work through my worksheet this way. 
 
 What I liked: 
 
